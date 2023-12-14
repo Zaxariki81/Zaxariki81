@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @Zaxariki81
-- Привет, я Захар
-- 👀 I am interested in programming
-- Меня интересует программирование
-- 🌱 I am currently in the 9th grade
-- В настоящее время я в 9 классе
-- 💞️ I want to cooperate with myself
-- Я хочу сотрудничать сам с собой
-- 📫 Don't mess with me)
-- Как со мной связаться? - Не надо со мной связываться)
+
